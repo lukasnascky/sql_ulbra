@@ -1,4 +1,4 @@
-# 🗃️ Database Fundamentals - ULBRA Palmas
+# 🗃️ SQL - ULBRA Palmas
 
 Welcome to the repository containing exercises, notes, and practical activities developed during the **Computer Science** course at **ULBRA Palmas**.
 
